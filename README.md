@@ -33,5 +33,4 @@ It allows users to convert long URLs into short, shareable links and redirects u
 
 ---
 
-## 📂 Project Structure
 
